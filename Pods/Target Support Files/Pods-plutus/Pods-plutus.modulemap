@@ -1,0 +1,6 @@
+framework module Pods_plutus {
+  umbrella header "Pods-plutus-umbrella.h"
+
+  export *
+  module * { export * }
+}
